@@ -3,8 +3,13 @@
 -create-react-app
 -we configured Tailwind CSS-Go to tailwind css documentation for installation.
 - Header
+- Routing of App
 - Login Form
 - signup form
+- Form Validation
+- useRef hook
+- firebase setup
+- deploying our app for production
 
 
 # Features
